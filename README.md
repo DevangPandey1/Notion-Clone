@@ -2,8 +2,6 @@
 
 A modern, feature-rich Notion clone built with Next.js 13, featuring real-time collaboration, authentication, and a beautiful UI.
 
-![Notion Clone Preview](public/preview.png)
-
 ## ✨ Features
 
 - 📝 Rich text editor with BlockNote
@@ -133,10 +131,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📫 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Devang Pandey - [@yourlinkedin](https://www.linkedin.com/in/devangpandeycolorado/)
 
-Project Link: [https://github.com/yourusername/notion-clone](https://github.com/yourusername/notion-clone)
-
----
-
-Made with ❤️ by [Your Name]
+Project Link: [[https://github.com/yourusername/notion-clone](https://github.com/DevangPandey1/Notion-Clone)]
