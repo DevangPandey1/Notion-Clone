@@ -131,6 +131,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📫 Contact
 
-Devang Pandey - [@yourlinkedin](https://www.linkedin.com/in/devangpandeycolorado/)
+Devang Pandey - [@linkedin](https://www.linkedin.com/in/devangpandeycolorado/)
 
 Project Link: [[https://github.com/yourusername/notion-clone](https://github.com/DevangPandey1/Notion-Clone)]
